@@ -1,0 +1,18 @@
+﻿[
+  {
+    "Name": "Game of thrones",
+    "PublishingHouse": {
+      "Id": 1,
+      "Name": "Old lion publisher",
+      "Adress": "Kuyv st."
+    }
+  },
+  {
+    "Name": "Chemistry of death",
+    "PublishingHouse": {
+      "Id": 2,
+      "Name": "KDS",
+      "Adress": "Lviv st."
+    }
+  }
+]
